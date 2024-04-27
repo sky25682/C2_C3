@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamServer", "TeamServer\TeamServer.csproj", "{0457740F-0520-487E-A4A7-AB7B8EBB961F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiModules", "ApiModels\ApiModules.csproj", "{080E5D27-A0D9-459C-9EE5-959306C6E63C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0457740F-0520-487E-A4A7-AB7B8EBB961F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0457740F-0520-487E-A4A7-AB7B8EBB961F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0457740F-0520-487E-A4A7-AB7B8EBB961F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0457740F-0520-487E-A4A7-AB7B8EBB961F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{080E5D27-A0D9-459C-9EE5-959306C6E63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080E5D27-A0D9-459C-9EE5-959306C6E63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080E5D27-A0D9-459C-9EE5-959306C6E63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080E5D27-A0D9-459C-9EE5-959306C6E63C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A2E4978-69DA-46C3-A379-7479066335F5}
+	EndGlobalSection
+EndGlobal
